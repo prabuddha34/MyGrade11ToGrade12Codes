@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Representative
+comment0.text=\r\n\ @author\ (Prabuddha\ Pal)\r\n\ @version\ (30th\ Of\ June\ 2024)\r\n
+comment1.params=ng\ addp
+comment1.target=Representative(java.lang.String,\ java.lang.String)
+comment2.params=n\ add
+comment2.target=void\ read(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ display()
+numComments=4
